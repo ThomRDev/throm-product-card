@@ -1,7 +1,7 @@
-# ThRoM (throm-product-cart)
+# ThRoM (throm-product-card)
 
 ```jsx
-import { ProductCard } from 'throm-product-cart'
+import { ProductCard } from 'throm-product-card'
 ```
 
 ```jsx
@@ -35,3 +35,7 @@ import { ProductCard } from 'throm-product-cart'
   </ProductCard>
 </>
 ```
+
+## NPM
+
+- <https://www.npmjs.com/package/throm-product-card>
